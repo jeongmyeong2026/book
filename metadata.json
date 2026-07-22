@@ -1,0 +1,6 @@
+{
+  "name": "중학생 방학 맞춤 독서 추천",
+  "description": "중학생 방학 성향 설문 기반 AI 도서 추천 및 한 줄 서평 독서록 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
